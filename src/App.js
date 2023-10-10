@@ -139,7 +139,7 @@ function App() {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://linkedin.com/in/ahmadabuhasan"
+              href="https://linkedin.com/in/fatkhanakbar"
             >
               <div className="btn-social">
                 <FaLinkedinIn />
@@ -148,7 +148,7 @@ function App() {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://twitter.com/eby8zevin"
+              href="https://twitter.com/fatkhan_akbar"
             >
               <div className="btn-social">
                 <FaTwitter />
@@ -157,7 +157,7 @@ function App() {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://www.instagram.com/eby8zevin"
+              href="https://www.instagram.com/_fatkhan.akbar"
             >
               <div className="btn-social">
                 <FaInstagram />
@@ -166,7 +166,7 @@ function App() {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://www.facebook.com/profile.php?id=100001555488554"
+              href="https://www.facebook.com/PemudaCalonPenghafalAlQuran"
             >
               <div className="btn-social">
                 <FaFacebookF />
@@ -385,7 +385,7 @@ function App() {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://github.com/fatkhan05"
+              href="https://github.com/fatkhan05/my-profile"
             >
               <div className="btn-action">
                 <FaReact className="icon" />

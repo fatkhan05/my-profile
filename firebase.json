@@ -1,7 +1,11 @@
 {
   "hosting": {
-    "site": "connect-with-eby",
+    "site": "connect-with-fatkhan",
     "public": "build",
-    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
   }
 }
